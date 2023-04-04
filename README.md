@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Data Scientist with a background in Biology Research</h3>
+<h3 align="center">Data Science learner with a background in Biology Research</h3>
 
 - 📫 How to reach me **daniel.s.osorio@gmail.com**
 
