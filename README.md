@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **My first PC had 40MB hard drive and 1MB of RAM!**
 
-- 🚧 My projects and info on my <a href="https://github.com/dosorio79/dosorio79.github.io">Gitpage</a>
+- 🚧 My projects and info on my <a href="https://github.com/dosorio79/dosorio79.github.io">Portfolio</a>
 
 <details>
   <summary><h4 align="left">About Me, computers and code</h4></summary>
