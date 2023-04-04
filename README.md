@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **daniel.s.osorio@gmail.com**
 
-- ⚡ Fun fact **My first PC had 40Mb hard drive and 1Mb of RAM!**
+- ⚡ Fun fact **My first PC had 40MB hard drive and 1MB of RAM!**
 
 <details>
   <summary><h4 align="left">About Me, computers and code</h4></summary>
