@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **AI, cutting-edge biology like CRISPR**
+- 💬 Ask me about **🐱‍💻AI, 🧬cutting-edge biology like CRISPR**
 
 - 📫 How to reach me **daniel.s.osorio@gmail.com**
 
