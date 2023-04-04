@@ -10,7 +10,7 @@
 - ⚡ Fun fact **My first PC had 40Mb hard drive and 1Mb of RAM!**
 
 <details>
-<summary>**A tale of Me, computers and code»»</summary>
+<summary>**A tale of Me, computers and code**</summary>
 Work in progress...
 </details>
 
