@@ -11,7 +11,7 @@
 
 <details>
   <summary><h4 align="left">About Me, computers and code</h4></summary>
-  (WORK IN PROGRESS)
+  (WORK IN PROGRESS)  
 My first computer was an IBM PS/1 and came with a windows like system that we quickly remove to use just MS-DOS. My first course in IT was on that OS, learning to copy files, see trees, making and remove dirs (Came in handy when using Bash/Zsh recently). Throughout the years I saw the rise of MS windows, I used every flavor between 3.1 and 10. 
 </details>
 
