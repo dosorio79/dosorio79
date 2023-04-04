@@ -3,15 +3,16 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 💬 Ask me about **🐱‍💻AI, 🧬cutting-edge biology like CRISPR**
+- 💬 Ask me about **🐱‍💻AI, 🧬cutting-edge biology like CRISPR, life, the universe...**
 
 - 📫 How to reach me **daniel.s.osorio@gmail.com**
 
 - ⚡ Fun fact **My first PC had 40Mb hard drive and 1Mb of RAM!**
 
 <details>
-  <summary><b>A tale of Me, computers and code</b></summary>
-Work in progress...
+  <summary><h4 align="left">About Me, computers and code</h4></summary>
+  (WORK IN PROGRESS)
+My first computer was an IBM PS/1 and came with a windows like system that we quickly remove to use just MS-DOS. My first course in IT was on that OS, learning to copy files, see trees, making and remove dirs (Came in handy when using Bash/Zsh recently). Throughout the years I saw the rise of MS windows, I used every flavor between 3.1 and 10. 
 </details>
 
 <h3 align="left">Connect with me:</h3>
