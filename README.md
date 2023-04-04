@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Osório</h1>
+<h1 align="center">Hi 🤝, I'm Daniel Osório</h1>
 <h3 align="center">Junior Data Scientist with a background in Biology Research</h3>
 
 - 🌱 I’m currently learning **SQL**
