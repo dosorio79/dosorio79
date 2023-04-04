@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🤝, I'm Daniel Osório</h1>
-<h3 align="center">Junior Data Scientist with a background in Biology Research</h3>
+<h1 align="center">Hello and welcome to my GitHub 🤝 </h1>
+<h3 align="center">I'm Daniel Osório, a Junior Data Scientist with a background in Biology Research</h3>
 
 - 👁️‍🗨️ I'm currently working on <a href="https://github.com/kolapally/computer_vision">CompVis</a>, our Bootcamp project of an app for face detection and recognition for industrial safety
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **My first PC had 40MB hard drive and 1MB of RAM!**
 
-- See my projects and info on my <a href="https://github.com/dosorio79/dosorio79.github.io>Gitpage</a>
+- 🚧 My projects and info on my <a href="https://github.com/dosorio79/dosorio79.github.io">Gitpage</a>
 
 <details>
   <summary><h4 align="left">About Me, computers and code</h4></summary>
