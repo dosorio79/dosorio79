@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **daniel.s.osorio@gmail.com**
 
-- 🚧 My projects and info on my <a href="https://github.com/dosorio79/dosorio79.github.io">Portfolio</a>
+- 🚧 My projects and info on my <a href="https://troopl.com/danielsosorio">Portfolio</a>
 
 - ⚡ Fun fact **My first PC had 40MB hard drive and 1MB of RAM!**
 
