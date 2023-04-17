@@ -1,7 +1,7 @@
 <h1 align="center">Hello and welcome to my GitHub 🤝 </h1>
 <h3 align="center">I'm Daniel Osório, a Junior Data Scientist with a background in Biology Research</h3>
 
-- 👁️‍🗨️ I'm currently working on <a href="https://github.com/kolapally/computer_vision">CompVis</a>, our Bootcamp project of an app for face detection and recognition for industrial safety
+- 👁️‍🗨️ I'm currently working on <a href="https://github.com/kolapally/computer_vision">CompVis</a>, our Bootcamp project of an app for face detection and recognition for industrial safety. You can give it a try here: https://compvis.streamlit.app/
 
 - 🌱 I’m currently learning **intermediate SQL**, **noSQL database fundamentals**, **Cloud services** 
 
