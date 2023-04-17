@@ -3,7 +3,7 @@
 
 - 👁️‍🗨️ I'm currently working on <a href="https://github.com/kolapally/computer_vision">CompVis</a>, our Bootcamp project of an app for face detection and recognition for industrial safety
 
-- 🌱 I’m currently learning **intermediate SQL**, **noSQL database fundamentals**,**Cloud services** 
+- 🌱 I’m currently learning **intermediate SQL**, **noSQL database fundamentals**, **Cloud services** 
 
 - 💬 Ask me about **🐱‍💻AI, 🧬cutting-edge biology like CRISPR, life, the universe...**
 
