@@ -58,7 +58,6 @@ Generative AI, ML systems, experimentation, pricing analytics, RAG pipelines, or
 ### 📫 Reach me
 
 - LinkedIn: https://linkedin.com/in/dosorio
-- Email: **daniel.s.osorio [at] gmail [dot] com**
 
 ---
 
