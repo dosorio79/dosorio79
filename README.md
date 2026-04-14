@@ -1,57 +1,63 @@
-<h1 align="center">Hello and welcome to my GitHub! 🤝</h1>
-<h3 align="center">Daniel Osório — Data Scientist & Applied AI Builder</h3>
+<h1 align="center">Hello and welcome 👋</h1>
+<h3 align="center">Daniel Osório — Data Scientist building decision-focused AI systems</h3>
 
 <p align="center">
-From academic cell biology research to data science and AI systems, now building solutions where models inform real-world decisions.
+I build AI systems that connect models to real-world decisions — and explore how they can be turned into useful tools.
 </p>
 
 <h2 align="center">
-🧠 Portfolio & Projects<br/>
+🧠 Portfolio<br/>
 <a href="https://dosorio79.github.io/portfolio">
 https://dosorio79.github.io/portfolio
 </a>
 </h2>
 
 <p align="center">
-Projects, experiments, and write-ups live there — this GitHub hosts the code.
+Selected projects, write-ups, and demos live there — this GitHub hosts the implementation.
 </p>
 
 ---
 
-### 👁️‍🗨️ What I work on
+### 👁️‍🗨️ What I build
 
-- 📊 Data science applications in pricing, marketing analytics, and decision systems
-- 🤖 GenAI and agentic applications, including RAG pipelines and LLM-powered tools
-- 🧠 NLP and ML applied to customer feedback and operational insights
-- 🚀 Practical deployment of AI systems and data products
+- 📊 Decision-focused data science (pricing, uplift modeling, marketing systems)
+- 🤖 GenAI applications (RAG pipelines, agentic workflows, local-first setups)
+- 🧠 NLP for customer feedback and operational insights
+- 🚀 End-to-end AI systems (APIs, deployment, evaluation, monitoring)
 
 ---
 
-### 🚧 Selected public work
+### 🚧 Selected work
 
-- 🤖 Agentic and GenAI applications for learning and knowledge workflows
-- 🧩 Retrieval-augmented generation (RAG) and local LLM systems
-- 👁️ CompVis — industrial safety face recognition app  
+- 🤖 **uLearn — Agentic micro-learning platform**  
+  Explores how AI systems can become structured, usable learning tools with validation and telemetry
+
+- 🧩 **RAG pipelines with local LLMs**  
+  Practical exploration of retrieval systems using FastAPI, ChromaDB, and Ollama
+
+- 🧠 **AI coding & agent systems**  
+  MCP tools, coding agents, and collaborative coding workflows
+
+- 👁️ **CompVis — industrial safety face recognition**  
   Repo: https://github.com/kolapally/computer_vision  
   Demo: https://compvis.streamlit.app/
 
-More projects and documentation are available in the portfolio above.
+More context and walkthroughs in the portfolio.
 
 ---
 
-### 🌱 Current interests
+### 🌱 Current focus
 
-- Agentic AI systems
-- Applied GenAI products
-- LLMOps & local model deployment
-- Responsible and practical AI adoption
-- Data products delivering measurable business value
+- Agentic AI systems (practical > hype)
+- LLMOps and local model deployment
+- Evaluation of AI systems (RAG, decision impact)
+- Data products with measurable business value
 
 ---
 
 ### 💬 Ask me about
 
-Generative AI, ML systems, experimentation, pricing analytics, RAG pipelines, or even cytoskeleton biology and CRISPR.
+GenAI systems, RAG pipelines, experimentation, pricing analytics — or actomyosin cytoskeletons and CRISPR.
 
 ---
 
@@ -62,66 +68,23 @@ Generative AI, ML systems, experimentation, pricing analytics, RAG pipelines, or
 ---
 
 <details>
-  <summary><h4 align="left">About me, computers, and code</h4></summary>
+  <summary><h4 align="left">Background</h4></summary>
 
-My first computer was an IBM PS/1 running MS-DOS. Learning to navigate directories, copy files, and manage storage manually built foundations that later reappeared in Linux, Bash, and development workflows.
+I started in academic cell biology, studying the actomyosin cytoskeleton.  
+That experience shaped how I approach systems today: hypothesis-driven, experimental, and grounded in real mechanisms.
 
-After years in academic research studying cellular systems, I transitioned into data science, where experimentation, reproducibility, and analytical thinking remain central to how I build solutions today.
+I now apply the same mindset to data science and AI — building systems that are not only accurate, but useful, testable, and deployable.
 
 </details>
 
 ---
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Core stack</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/dosorio" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/danielosrio" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-<a href="https://medium.com/@danielosrio" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>
+Python · FastAPI · Docker · Vector DBs · RAG · Local LLMs · Polars · scikit-learn
 </p>
 
 ---
 
-<h3 align="left">Core tools & technologies</h3>
-
-<h4 align="left">Language</h4>
-<p align="left">
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</a>
-</p>
-
-<h4 align="left">Data & Machine Learning</h4>
-<p align="left">
-<a href="https://pandas.pydata.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</a>
-<a href="https://scikit-learn.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-</a>
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-</a>
-</p>
-
-<h4 align="left">AI & deployment stack</h4>
-<p align="left">
-FastAPI · Vector databases · RAG pipelines · Local LLM deployment · Dockerized services
-</p>
-
-<h4 align="left">Development tools</h4>
-<p align="left">
-<a href="https://git-scm.com/">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</a>
-</p>
-
----
-
-⚡ Fun fact: My first PC had **40 MB storage and 1 MB RAM — and we still got things done.**
+⚡ Fun fact: My first PC had <b>40 MB storage and 1 MB RAM</b> — constraints were the original teacher.
